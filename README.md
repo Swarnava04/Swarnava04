@@ -1,13 +1,11 @@
 
-[![MasterHead](https://assets.rbl.ms/50310413/origin.gif)]
+![MasterHead](https://assets.rbl.ms/50310413/origin.gif)
 <h1 align="center">Hi 👋, I'm Swarnava Chakrabarti</h1>
 <h3 align="center">A coding enthusiast, passionate frontend developer and a tech geek</h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnava04&label=Profile%20views&color=0e75b6&style=flat" alt="swarnava04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnava04" alt="swarnava04" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/swarnavachakr18" target="blank"><img src="https://img.shields.io/twitter/follow/swarnavachakr18?logo=twitter&style=for-the-badge" alt="swarnavachakr18" /></a> </p>
 
 - 🔭 I’m currently working on **data structures**
 
